@@ -48,6 +48,7 @@ public class GlavnoeOkno extends JDialog {
         } catch (IOException e) {
             e.printStackTrace();
         }
+        
 
     }
 
